@@ -4,8 +4,8 @@
   <p><strong>The minimal, long-term mouse panning fix for Mac users</strong></p>
   
   <p>
-    <a href="https://github.com/RashminDungrani/drag-scroll-mac/releases"><img src="https://img.shields.io/github/v/release/yourusername/DragScroll?style=flat-square" alt="Release"></a>
-    <a href="https://github.com/RashminDungrani/drag-scroll-mac/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/DragScroll?style=flat-square" alt="License"></a>
+    <a href="https://github.com/RashminDungrani/drag-scroll-mac/releases"><img src="https://img.shields.io/github/v/release/RashminDungrani/drag-scroll-mac?style=flat-square" alt="Release"></a>
+    <a href="https://github.com/RashminDungrani/drag-scroll-mac/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RashminDungrani/drag-scroll-mac?style=flat-square" alt="License"></a>
     <img src="https://img.shields.io/badge/macOS-11.0%2B-000000?style=flat-square&logo=apple" alt="macOS 11.0+">
     <img src="https://img.shields.io/badge/Language-Swift-F05138?style=flat-square&logo=swift" alt="Swift">
   </p>
