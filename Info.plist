@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- App identity -->
+    <key>CFBundleIdentifier</key>
+    <string>com.dragscroll.app</string>
+    <key>CFBundleName</key>
+    <string>DragScroll</string>
+    <key>CFBundleDisplayName</key>
+    <string>DragScroll</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>DragScroll</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+
+    <!-- Hide from Dock — menu bar only -->
+    <key>LSUIElement</key>
+    <true/>
+
+    <!-- Retina support -->
+    <key>NSHighResolutionCapable</key>
+    <true/>
+
+    <!-- Minimum macOS version -->
+    <key>LSMinimumSystemVersion</key>
+    <string>11.0</string>
+</dict>
+</plist>

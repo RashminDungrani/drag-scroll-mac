@@ -1,0 +1,13 @@
+# macOS / Xcode ignores
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcworkspace
+
+# Build artifacts
+build/
+*.app
+
+# Logs
+*.log
+debug.log
